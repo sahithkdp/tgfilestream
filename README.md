@@ -7,7 +7,7 @@ environment variables (see below) and run with `python3 -m tgfilestream`.
 
 A reverse proxy is recommended to add TLS. When using a reverse proxy, keep
 `HOST` as-is, but add the publicly accessible URL to `PUBLIC_URL`. The URL
-should include the protocol, e.g. `https://example.com`.
+should include the protocol, e.g. `https://example.com`.https://github.com/TGExplore/TG-Files-to-Link#you-can-also-tap-the-deploy-to-heroku-button-below-to-deploy-straight-to-heroku
 
 ### Environment variables
 * `TG_API_ID` (required) - Your Telegram API ID.
